@@ -1,1 +1,6 @@
-# 🇧🇷 Uma api rest simples feita com spring simulando um petshop, a mesma esta usando H2 como db então podem rodar local | 🇺🇸 A simple Api simulating a petshop made with Spring, which is using H2 for DB, so you can run it Locally
+
+# Petshop
+
+🇧🇷 Uma api rest que simula um petshop a mesma foi feita com Spring, Swangger e H2 seguindo as os conceitos de orientação a objeto.
+
+🇺🇸 A rest api that simulates a pet shop made with Spring, Swangger and H2 following the concepts of object orientation.
