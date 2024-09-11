@@ -1,0 +1,1 @@
+# 🇧🇷 Uma api rest simples feita com spring simulando um petshop, a mesma esta usando H2 como db então podem rodar local | 🇺🇸 A simple Api simulating a petshop made with Spring, which is using H2 for DB, so you can run it Locally
